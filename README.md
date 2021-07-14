@@ -1,1 +1,3 @@
-# rn-tainha-uikit
+# tainha ui kit
+
+Readme
